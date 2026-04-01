@@ -1,0 +1,9 @@
+case_id,age,gender,smoking,stage_group,surgery,chemo,radiation
+D001,76,female,Ever,II,No,Yes,No
+D002,71,male,Ever,II,No,Yes,No
+D003,50,female,Ever,I,No,Yes,No
+D004,66,female,Ever,I,No,No,No
+D005,81,female,Ever,I,No,No,No
+D006,75,male,Ever,I,No,No,No
+D007,72,female,Ever,I,No,No,No
+D008,67,male,Ever,I,No,No,No
